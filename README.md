@@ -309,7 +309,7 @@ def primeiro_caractere_unico(palavra):
 * Criar uma função que receberá uma lista com com três valores que correspondem a possíveis lados de um triângulo. Na função validar se os dados fornecidos formam um triângulo... Caso afirmativo, retornar 'Sim', do contrário, retornar 'Não'.
 
     > [!NOTE]
-    >para formar um triângulo, o valor de cada lado deve ser menor que a soma dos outros 2 lados.
+    > Para formar um triângulo, o valor de cada lado deve ser menor que a soma dos outros 2 lados.
 
     >Ex:
 *Entrada*: [2,2,5] / *Saída*: false
@@ -379,8 +379,8 @@ Sabendo disso, crie uma função dicionarioQuadrados() que receba uma lista núm
 Um desses paradigmas é a programação funcional, cujo objetivo é aumentar o determinismo do programa de forma que, caso o programa seja escalável e se torne muito grande, os desenvolvedores não percam o controle do código. Uma forma de fazer programação funcional é por meio de funções lambdas, também conhecidas como "funções anônimas", tendo esse nome porque não precisam ser declaradas com um nome.
 Sabendo disso, crie uma função **filtraElementos()** que recebe uma lista e utiliza função lambda para filtrar os elementos maiores que 10, ou seja, a função deve retornar uma lista apenas com estes elementos maiores que 10.
 
->[!NOTE]
->em um cenário real, a função **filtraElementos()** seria utilizada para outras funcionalidades também além da utilização da lambda, de forma a melhorar o determinismo do código.
+> [!NOTE]
+> Em um cenário real, a função **filtraElementos()** seria utilizada para outras funcionalidades também além da utilização da lambda, de forma a melhorar o determinismo do código.
 
 ### **_[Resposta]()_**
 #
