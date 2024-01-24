@@ -385,6 +385,4 @@ Sabendo disso, crie uma função **filtraElementos()** que recebe uma lista e ut
 ### **_[Resposta]()_**
 #
 * 
-> [!TIP]
-> Helpful
 </details>
