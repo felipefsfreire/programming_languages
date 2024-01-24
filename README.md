@@ -380,7 +380,7 @@ Um desses paradigmas é a programação funcional, cujo objetivo é aumentar o d
 Sabendo disso, crie uma função **filtraElementos()** que recebe uma lista e utiliza função lambda para filtrar os elementos maiores que 10, ou seja, a função deve retornar uma lista apenas com estes elementos maiores que 10.
 
 > [!NOTE]
-> Em um cenário real, a função **filtraElementos()** seria utilizada para outras funcionalidades também além da utilização da lambda, de forma a melhorar o determinismo do código.
+> Em um cenário real, a função filtraElementos() seria utilizada para outras funcionalidades também além da utilização da lambda, de forma a melhorar o determinismo do código.
 
 ### **_[Resposta]()_**
 #
