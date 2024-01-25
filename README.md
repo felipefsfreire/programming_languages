@@ -221,7 +221,7 @@ Assim, se o resto da divisão do número por 2 for igual a 0, o número é consi
     def par_e_impar(lista):
             ### Seu código aqui...
 ```
-### **_[Resposta]()_**
+### **_[Resposta](/Python%20Exercices/ex11_python.py)_**
 #
 * Uma professora decidiu premiar os melhores alunos de sua turma com um brinde. Para isso ela vai entregar um brinde para todos os alunos que tiverem uma média superior a média da turma.
 Para ajudar o professor elabore uma função que recebe uma lista dos alunos em formato de dict (dicionário) com nome do aluno e a média do aluno. Esta função deve calcular a média da turma, identificar quais alunos tem média igual ou superior a média da turma e retornar uma lista com o nome dos alunos que possuem média igual ou superior a média da turma. A ordem dos nomes da lista de retorno deve obedecer a ordem da lista de entrada.
@@ -234,7 +234,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
     def melhores_alunos(lista):
         ### Seu código aqui
 ```
-### **_[Resposta]()_**
+### **_[Resposta](/Python%20Exercices/ex12_python.py)_**
 #
 * Joazinho descobriu que tem facilidade com português na escola e então resolveu estudar soletração para participar de uma competição que vai ocorrer em sua cidade. Para ajudar Joazinho com os estudos dele, crie uma função que recebe uma palavra (string), separa todos os caracteres em uma lista e retorna esta lista.
 
@@ -246,7 +246,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
     def soletrando_str(palavra):
         ### Seu código aqui
 ```
-### **_[Resposta]()_**
+### **_[Resposta](/Python%20Exercices/ex13_python.py)_**
 #
 * Joazinho se destacou em seu colégio ao ganhar um concurso de soletração. Então, sua professora o incentivou a participar de um concurso de soletração a nível nacional, porém o concurso é de soletração de trás para frente. Dessa forma Joazinho vai precisar se dedicar e estudar muito para poder ir bem no concurso. Para ajudá-lo, crie uma função que recebe uma string, inverte-a e depois separa os carracteres em uma lista que deve ser o retorno da função.
 
@@ -258,7 +258,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
     def soletrando_invertido_str(palavra):
         ### Seu código aqui
 ```
-### **_[Resposta]()_**
+### **_[Resposta](/Python%20Exercices/ex14_python.py)_**
 #
 * Buscando se aperfeiçoar em soletração e na identificação de caracteres nas palavras, um aluno vencedor de uma gincana de soletração teve curiosidade em identificar as letras não repetidas de uma palavra. Para ajudá-lo no treino, crie uma função que recebe uma palavra e retorna o índice do primeiro caractere não repetido desta palavra. Caso não exista caractere único na palavra em questão, retornar -1.
 
@@ -270,27 +270,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
 def primeiro_caractere_unico(palavra):
     ### Seu código aqui
 ```
-### **_[Resposta]()_**
-#
-* Paulinho está fazendo uma análise de temperatura média dos dias do último verão em sua cidade e busca semanas que possuem dias que possuem mesma temperatura média. Para ajudá-lo, crie uma função que recebe uma lista de valores decimais e identifique se, dentre o conjunto dos dados, existem e quantos são os valores repetidos. Assim, a função deve retornar a quantidade de dias com temperaturas iguais de acordo com a mensagem: 'Sim, existem ZZ dias com temperatura média repetida.' (onde ZZ é a quantidade de registros repetidos) caso aquela lista de temperaturas possua mais de um dia com temperatura repetida, ou 'Não, não existem dias com temperatura média repetida.', caso não haja.
-
-    >Ex:
-*Entrada*: [27.5, 30.2, 28.5, 29, 25, 24, 25.5] / 
-*Saída*: Não, não existem dias com temperatura média repetida.
-
-    >Ex:
-*Entrada*: [30.5, 30, 29.5, 30, 30.5, 31, 30] / 
-*Saída*: Sim, existem 3 dias com temperatura média repetida.
-
-    >Ex:
-*Entrada*: [18.5, 19, 20.5, 20.4, 20.5, 20.6, 20.7] / 
-*Saída*: Sim, existem 2 dias com temperatura média repetida.
-    * A função deverá ser criada seguindo a estrutura abaixo:
-```ruby
-    def elementos_repetidos(lista):
-        ### Seu código aqui
-```
-### **_[Resposta]()_**
+### **_[Resposta](/Python%20Exercices/ex15_python.py)_**
 #
 * Escreva um programa que leia um número inteiro maior do que zero e devolva, na tela, a soma de todos os seus algarismos. Por exemplo, ao número 251 corresponderá o valor 8 (2 + 5 + 1). Se o número lido não for maior do que zero, deverá retornar -1.
 
@@ -304,7 +284,7 @@ def primeiro_caractere_unico(palavra):
     def soma_algarismos(numero):
         ### Seu código aqui
 ```
-### **_[Resposta]()_**
+### **_[Resposta](/Python%20Exercices/ex16_python.py)_**
 #
 * Criar uma função que receberá uma lista com com três valores que correspondem a possíveis lados de um triângulo. Na função validar se os dados fornecidos formam um triângulo... Caso afirmativo, retornar 'Sim', do contrário, retornar 'Não'.
 
