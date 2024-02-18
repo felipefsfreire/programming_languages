@@ -172,7 +172,7 @@ Imprima todos os números pares.
 
 * Soma de Dois Números:
    - Crie um programa que solicite ao usuário para inserir dois números e, em seguida, imprima a soma deles.
-## **_[Resposta](/Python%20Exercices/ex01_python.py)_**
+### **_[Resposta](/Python%20Exercices/ex01_python.py)_**
 #
 * Verificador de Números Pares ou Ímpares:
     * Peça ao usuário para inserir um número. Em seguida, determine se o número é par ou ímpar e imprima o resultado.
@@ -306,9 +306,9 @@ def primeiro_caractere_unico(palavra):
 * Considere que uma empresa desenvolveu uma aplicação que solicita ao usuário uma dada informação, como, por exemplo, o segundo nome deste usuário. O programa recebe essa informação e armazena em uma lista de strings. Entretanto, caso um usuário acidentalmente não tenha preenchido esta informação, a lista conterá elementos vazios. 
 >Por exemplo, dada uma lista com 5 nomes: listaDeNomes = ['Araújo', 'Alexandre', 'Silva', 'Flávio', ''] 
 
-note que o último elemento da lista é apenas uma string vazia representada pelas aspas vazias.
+>note que o último elemento da lista é apenas uma string vazia representada pelas aspas vazias.
 
->Sabendo disso, faça uma função removerElementosVazios() que recebe uma lista de nomes e retorna a lista sem os elementos vazios.
+Sabendo disso, faça uma função removerElementosVazios() que recebe uma lista de nomes e retorna a lista sem os elementos vazios.
 ### **_[Resposta]()_**
 #
 * Em programação, podemos fazer uso de diferentes listas para armazenar nossos dados para, posteriormente, unir informações destas listas. Por exemplo, podemos guardar em uma lista os nomes de funcionários de uma empresa e, em outra lista, os cargos que estes funcionários ocupam.
