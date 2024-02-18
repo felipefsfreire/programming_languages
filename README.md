@@ -286,6 +286,11 @@ def primeiro_caractere_unico(palavra):
 ```
 ### **_[Resposta](/Python%20Exercices/ex16_python.py)_**
 #
+
+* Descreva passo a passo como você construiria uma calculadora simples em Python, incluindo a definição das operações básicas (adição, subtração, multiplicação e divisão), a captura de entrada do usuário e a exibição do resultado.
+
+### **_[Resposta](/Python%20Exercices/ex17_python.py)_**
+#
 * Criar uma função que receberá uma lista com com três valores que correspondem a possíveis lados de um triângulo. Na função validar se os dados fornecidos formam um triângulo... Caso afirmativo, retornar 'Sim', do contrário, retornar 'Não'.
 
     > [!NOTE]
