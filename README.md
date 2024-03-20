@@ -1,4 +1,4 @@
-# Programming Languages
+# Programming Languages Exercises
 Aqui estou colocando alguns exercícios que venho resolvendo na minha caminhada em programação
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipefsfreire&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -172,43 +172,43 @@ Imprima todos os números pares.
 
 * Soma de Dois Números:
    - Crie um programa que solicite ao usuário para inserir dois números e, em seguida, imprima a soma deles.
-### **_[Resposta](/Python%20Exercices/ex01_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex01_python.py)_**
 #
 * Verificador de Números Pares ou Ímpares:
     * Peça ao usuário para inserir um número. Em seguida, determine se o número é par ou ímpar e imprima o resultado.
-### **_[Resposta](/Python%20Exercices/ex02_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex02_python.py)_**
 #
 * Calculadora de Área de um Círculo:
     * Peça ao usuário para inserir o raio de um círculo e calcule a área do círculo usando a fórmula A = πr².
-### **_[Resposta](/Python%20Exercices/ex03_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex03_python.py)_**
 #
 * Lista de Números Pares:
     * Crie uma lista de números de 1 a 10. Em seguida, use um loop para percorrer a lista e imprimir apenas os números pares.
-### **_[Resposta](/Python%20Exercices/ex04_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex04_python.py)_**
 #
 * Conversor de Temperatura:
     * Crie um programa que peça ao usuário para inserir uma temperatura em Celsius e converta-a para Fahrenheit usando a fórmula F = (C * 9/5) + 32.
-### **_[Resposta](/Python%20Exercices/ex05_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex05_python.py)_**
 #
 * Média de Três Números:
     * Crie um programa que solicite ao usuário inserir três números e, em seguida, calcule e imprima a média desses números.
-### **_[Resposta](/Python%20Exercices/ex06_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex06_python.py)_**
 #
 * Contador de Palavras:
     * Peça ao usuário para inserir uma frase e conte o número de palavras na frase. Considere que as palavras são separadas por espaços em branco.
-### **_[Resposta](/Python%20Exercices/ex07_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex07_python.py)_**
 #
 * Tabuada:
     * Crie um programa que solicite ao usuário inserir um número e, em seguida, imprima a tabuada desse número até 10.
-### **_[Resposta](/Python%20Exercices/ex08_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex08_python.py)_**
 #
 * Verificador de Ano Bissexto:
     * Solicite ao usuário para inserir um ano e verifique se é bissexto. Um ano bissexto é divisível por 4, mas não por 100, a menos que também seja divisível por 400.
-### **_[Resposta](/Python%20Exercices/ex09_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex09_python.py)_**
 #
 * Fatorial:
    - Crie um programa que solicite ao usuário inserir um número e, em seguida, calcule e imprima o fatorial desse número. O fatorial de um número \(n\) é o produto de todos os inteiros de 1 a \(n\).
-### **_[Resposta](/Python%20Exercices/ex10_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex10_python.py)_**
 #
 * Dentro dos conjuntos numéricos existem vários subconjuntos, dentre eles os subconjuntos dos números pares e números ímpares. Os números pares são todos os números múltiplos de 2, enquanto os números ímpares são o números não pares, logo, são os números que não são múltiplos de 2.
 Assim, se o resto da divisão do número por 2 for igual a 0, o número é considerado par. Se não é igual a 0, é considerado ímpar. Crie uma função que receba um lista de números inteiros, identifica os números como pares ou ímpares e retorna uma string informando a quantidade de pares seguido de uma vírgula e depois a quantidade de ímpares.
@@ -221,7 +221,7 @@ Assim, se o resto da divisão do número por 2 for igual a 0, o número é consi
     def par_e_impar(lista):
             ### Seu código aqui...
 ```
-### **_[Resposta](/Python%20Exercices/ex11_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex11_python.py)_**
 #
 * Uma professora decidiu premiar os melhores alunos de sua turma com um brinde. Para isso ela vai entregar um brinde para todos os alunos que tiverem uma média superior a média da turma.
 Para ajudar o professor elabore uma função que recebe uma lista dos alunos em formato de dict (dicionário) com nome do aluno e a média do aluno. Esta função deve calcular a média da turma, identificar quais alunos tem média igual ou superior a média da turma e retornar uma lista com o nome dos alunos que possuem média igual ou superior a média da turma. A ordem dos nomes da lista de retorno deve obedecer a ordem da lista de entrada.
@@ -234,7 +234,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
     def melhores_alunos(lista):
         ### Seu código aqui
 ```
-### **_[Resposta](/Python%20Exercices/ex12_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex12_python.py)_**
 #
 * Joazinho descobriu que tem facilidade com português na escola e então resolveu estudar soletração para participar de uma competição que vai ocorrer em sua cidade. Para ajudar Joazinho com os estudos dele, crie uma função que recebe uma palavra (string), separa todos os caracteres em uma lista e retorna esta lista.
 
@@ -246,7 +246,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
     def soletrando_str(palavra):
         ### Seu código aqui
 ```
-### **_[Resposta](/Python%20Exercices/ex13_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex13_python.py)_**
 #
 * Joazinho se destacou em seu colégio ao ganhar um concurso de soletração. Então, sua professora o incentivou a participar de um concurso de soletração a nível nacional, porém o concurso é de soletração de trás para frente. Dessa forma Joazinho vai precisar se dedicar e estudar muito para poder ir bem no concurso. Para ajudá-lo, crie uma função que recebe uma string, inverte-a e depois separa os carracteres em uma lista que deve ser o retorno da função.
 
@@ -258,7 +258,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
     def soletrando_invertido_str(palavra):
         ### Seu código aqui
 ```
-### **_[Resposta](/Python%20Exercices/ex14_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex14_python.py)_**
 #
 * Buscando se aperfeiçoar em soletração e na identificação de caracteres nas palavras, um aluno vencedor de uma gincana de soletração teve curiosidade em identificar as letras não repetidas de uma palavra. Para ajudá-lo no treino, crie uma função que recebe uma palavra e retorna o índice do primeiro caractere não repetido desta palavra. Caso não exista caractere único na palavra em questão, retornar -1.
 
@@ -270,7 +270,7 @@ Para ajudar o professor elabore uma função que recebe uma lista dos alunos em 
 def primeiro_caractere_unico(palavra):
     ### Seu código aqui
 ```
-### **_[Resposta](/Python%20Exercices/ex15_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex15_python.py)_**
 #
 * Escreva um programa que leia um número inteiro maior do que zero e devolva, na tela, a soma de todos os seus algarismos. Por exemplo, ao número 251 corresponderá o valor 8 (2 + 5 + 1). Se o número lido não for maior do que zero, deverá retornar -1.
 
@@ -284,12 +284,12 @@ def primeiro_caractere_unico(palavra):
     def soma_algarismos(numero):
         ### Seu código aqui
 ```
-### **_[Resposta](/Python%20Exercices/ex16_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex16_python.py)_**
 #
 
 * Descreva passo a passo como você construiria uma calculadora simples em Python, incluindo a definição das operações básicas (adição, subtração, multiplicação e divisão), a captura de entrada do usuário e a exibição do resultado.
 
-### **_[Resposta](/Python%20Exercices/ex17_python.py)_**
+### **_[Resposta](/Python%20Exercises/ex17_python.py)_**
 #
 * Criar uma função que receberá uma lista com com três valores que correspondem a possíveis lados de um triângulo. Na função validar se os dados fornecidos formam um triângulo... Caso afirmativo, retornar 'Sim', do contrário, retornar 'Não'.
 
